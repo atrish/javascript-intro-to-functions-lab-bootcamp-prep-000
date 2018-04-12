@@ -19,4 +19,4 @@ function sayHiToGrandma(string, grandmother) {
 }
 
 sayHiToGrandma("hello" "I can't hear you")
-sayHiToGrandma('HELLO!' "YES INDEED!")
+sayHiToGrandma("HELLO!" "YES INDEED!")
