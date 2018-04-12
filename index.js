@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string, grandmother) {
-      return ${string} ${grandmother} 
+      return (${string} ${grandmother})
 }
 
 sayHiToGrandma("hello" "I can't hear you")
